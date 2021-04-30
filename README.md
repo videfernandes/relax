@@ -1,10 +1,9 @@
-## Relaxer App
+## Relaxe App
 
-A relaxing breathing app.
+Um aplicativo para relaxar através da respiração
 
-## Project Specifications
+## Especificações
 
-- CSS to create circle and gradient circle
-- Create and animate pointer (Small circle)
-- Grow and shrink animations
-- JavaScript to create the breath animation effect
+- CSS para criar o círculo e o seu gradiente. 
+- Efeitos de aumentar e diminuir tamanho. 
+- JavaScript para criar o efeito de respiração.
